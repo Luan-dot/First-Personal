@@ -1,0 +1,132 @@
+body {
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+h1 {
+    font-size: 562.5%;
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6em;
+}
+
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top:100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 5%;
+}
+
+a {
+    text-decoration: none;
+    color: #0e5749;
+    font-family: 'Merriweather', serif;
+}
+
+a:hover {
+    color: grey;
+}
+
+.dancing {
+    position:absolute;
+    top: 250px;
+    right:950px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.row-one {
+    margin-top: 50px;
+}
+
+.row-two {
+    margin-top: 30px;
+    margin-bottom: 110px;
+}
+
+.row-three {
+    margin-top: 30px;
+    margin-bottom: 110px;
+}
+
+.One {
+float: left;
+margin-right:30px;
+}
+
+.Two {
+float: right;
+margin-left:30px;
+}
+
+.Three {
+float: left;
+margin-right:30px;
+}
+
+.hobby-title {
+    text-align: center;
+    margin: 0px;
+}
+
+.hobby-paragraph {
+    position: relative;
+    top: 70px;
+}
+
+.skill-paragraph {
+    margin-top: 50px;
+}
+
+.clown-paragraph {
+    position: relative;
+    top: 25px;
+}
+
+.me-paragraph {
+    position: relative;
+    top: 25px;
+}
+
+.software {
+    position: relative;
+    top: 35px;
+}
